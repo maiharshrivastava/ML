@@ -5,6 +5,6 @@ House Price Prediction
 
 #Task 2
 Wine Quality Prediction
-#Task 3
 
+#Task 3
 Iris Flowers Classification
